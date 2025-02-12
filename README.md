@@ -1,4 +1,13 @@
-# Hotel-Management-System
-# Hotel-Management-System
-# Hotel-Room-Management-System
-# Hotel-Management-System
+Database Name : - hotel.sql
+user name : - Admin
+password  : - 1234
+
+
+After Creating Database,
+
+9th Step: Open a browser and go to URL “http://localhost/hotel/”
+
+Note: For admin panel, go to URL ” http://localhost/hotel/admin/index.php”
+
+
+
